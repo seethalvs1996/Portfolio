@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#header{
+    background: url(./images/251618.webp) no-repeat;
+    background-size: cover;
+    height: 900px; 
+}
